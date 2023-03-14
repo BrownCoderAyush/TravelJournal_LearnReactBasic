@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TravelJournal_LearnReactBasic/static/css/main.ca967726.css",
+    "main.js": "/TravelJournal_LearnReactBasic/static/js/main.14a0bc3e.js",
+    "static/media/sectionBackground.png": "/TravelJournal_LearnReactBasic/static/media/sectionBackground.35b38487f5a4a27532b5.png",
+    "static/media/logo.png": "/TravelJournal_LearnReactBasic/static/media/logo.98db494f2a2865f9a89a.png",
+    "index.html": "/TravelJournal_LearnReactBasic/index.html",
+    "main.ca967726.css.map": "/TravelJournal_LearnReactBasic/static/css/main.ca967726.css.map",
+    "main.14a0bc3e.js.map": "/TravelJournal_LearnReactBasic/static/js/main.14a0bc3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca967726.css",
+    "static/js/main.14a0bc3e.js"
+  ]
+}
