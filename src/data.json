@@ -1,0 +1,31 @@
+[
+    {
+        "name": "India",
+        "details": "India, officially the Republic of India, is a country in South Asia. It is the seventh-largest country by area and the second-most populous country.",
+        "img" : "https://images.unsplash.com/photo-1536782376847-5c9d14d97cc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1776&q=80" , 
+        "date": "23 Aug 2022",
+        "JournalNumber": "102",
+        "key": 1 , 
+        "isAbroad" : false 
+
+    },
+    {
+        "name": "Cambodia",
+        "details": "Cambodia is a Southeast Asian nation whose landscape spans low-lying plains, the Mekong Delta, mountains and Gulf of Thailand coastline. Phnom Penh, its capital, is home to the art deco Central Market, glittering Royal Palace and the National Museum's historical and archaeological exhibits.",
+        "img":"https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80" , 
+        "date": "1 Jan 2023",
+        "JournalNumber": "102",
+        "key": 2 , 
+        "isAbroad" : true 
+    },
+    {
+        "name": "America",
+        "details": "The U.S. is a country of 50 states covering a vast swath of North America, with Alaska in the northwest and Hawaii extending the nation’s presence into the Pacific Ocean. Major Atlantic Coast cities are New York, a global finance and culture center, and capital Washington, DC. ",
+        "img":"https://images.unsplash.com/photo-1483921020237-2ff51e8e4b22?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" , 
+        "date": "1 Jan 2023",
+        "JournalNumber": "102",
+        "key": 2 , 
+        "isAbroad" : true 
+    } 
+
+]
